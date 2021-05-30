@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mkrtschjan
-- 👀 I’m interested in Programming
+- 👀 I love programming
 - 🌱 I’m currently learning Sanscript in Dexterity
 - 💞️ I’m looking to collaborate with teams
 - 📫 How to reach me: talinemkrtschjan@gmail.com
